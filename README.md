@@ -1,37 +1,44 @@
 # Student Profile
 
-A beginner Python project built with Python.
-
-This project demonstrates how to use:
-
-- Functions
-- Dictionaries
-- User Input
-- Loops
-- `items()` method
-- Clean program structure
+A beginner Python project that stores and displays student information using a dictionary.
 
 ## Features
 
-- Stores student information
-- Displays all information using a dictionary
-- Uses functions for better code organization
+- Collect student information
+- Store data using a dictionary
+- Display student profile information
+- Use functions for better code organization
+- Use dictionary methods like `items()`
+
+## Technologies
+
+- Python 3.x
 
 ## Example
 
-What's your name?
-Awake
+```
+What's your name? Awake
 
-How old are you?
-24
+How old are you? 24
 
-Favorite language?
-Python
+Favorite language? Python
 
-```text
+
 ------ Student Profile ------
 
 name: Awake
 age: 24
 favorite_language: Python
 ```
+
+## Concepts Practiced
+
+- Functions
+- Dictionaries
+- User Input
+- Loops
+- Dictionary `items()` method
+
+## Author
+
+AwakeLabs
