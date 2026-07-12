@@ -28,8 +28,10 @@ How old are you?
 Favorite language?
 Python
 
+```text
 ------ Student Profile ------
 
 name: Awake
 age: 24
 favorite_language: Python
+```
